@@ -11,7 +11,7 @@
 <pre>pip install -r requirements.txt</pre>
 <h2>Usage</h2>
 <p>To run the script, use the following command:</p>
-<pre>python subdomain_enumerator.py -d &lt;domain&gt;</pre>
+<pre>python h3lix_recon.py -d &lt;domain&gt;</pre>
 <p>Replace &lt;domain&gt; with the domain you want to enumerate subdomains for.</p>
 <p>By default, this will save the list of subdomains to a file named &lt;domain&gt;_subdomains.txt.</p>
 <h2>License</h2>
