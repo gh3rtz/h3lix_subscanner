@@ -1,4 +1,4 @@
-H3lix Subdomain Enumerator
+<h1>H3lix Subdomain Enumerator</h1>
 This is a Python script that uses the SecurityTrails API to enumerate subdomains for a given domain.
 
 Prerequisites
