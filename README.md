@@ -12,7 +12,9 @@
 <h2>Usage</h2>
 <p>To run the script, use the following command:</p>
 <pre>python h3lix_recon.py -d &lt;domain&gt;</pre>
+<pre>python h3lix_recon.py -l &lt;filename&gt;</pre>
 <p>Replace &lt;domain&gt; with the domain you want to enumerate subdomains for.</p>
+<p>Replace &lt;filename&gt; with the file you want to enumerate subdomains for.</p>
 <p>By default, this will save the list of subdomains to a file named &lt;domain&gt;_subdomains.txt.</p>
 <h2>License</h2>
 <p>The license for this script is not specified.</p>
